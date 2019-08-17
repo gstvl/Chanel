@@ -84,6 +84,9 @@ http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/14391
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", BT SPORTS 2HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17508
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", BT SPORTS 3HD
+http://mypanel.tv:8080/barber/barber123/6644
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", NBA HD
 http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/165
 
