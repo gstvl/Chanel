@@ -96,8 +96,8 @@ http://ok2.se:8000/T0pcNddMIp/hZ2Ed2WwmA/168
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", Arena Sport 1HD
 http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/40958
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Channel", CNN HD UK
-http://mypanel.tv:8080/barber/barber123/15768
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Channel", EBS
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Channel", BBC World News UK
 http://mypanel.tv:8080/barber/barber123/6655
