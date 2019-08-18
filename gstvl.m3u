@@ -96,6 +96,18 @@ http://ok2.se:8000/T0pcNddMIp/hZ2Ed2WwmA/168
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", Arena Sport 1HD
 http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/40958
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", (PT) SPORT TV1
+http://iptvpro.watch-vision.net:8789/ibrahim72/72ibrahim/645
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", (PT) SPORT TV2
+http://iptvpro.watch-vision.net:8789/ibrahim72/72ibrahim/15106
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", (PT) SPORT TV3
+http://iptvpro.watch-vision.net:8789/ibrahim72/72ibrahim/337
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", (PT) SPORT TV4
+http://iptvpro.watch-vision.net:8789/ibrahim72/72ibrahim/338
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Channel", EBS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 
