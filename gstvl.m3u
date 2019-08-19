@@ -21,7 +21,7 @@ http://master.cystreams.com:25461/live/greek/macedonia/42.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Greece", Mega
 https://vermantia.secure2.footprint.net/egress/bhandler/telmacortmp/vermantia/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Greece", NAT GEO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Greece", NAT GEO HD
 http://ok2.se:8000/AyVGZU7x9E/hsNUwzh0iu/4734
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Ote Cinema 1
