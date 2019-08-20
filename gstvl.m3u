@@ -39,6 +39,9 @@ http://ok2.se:8000/AyVGZU7x9E/hsNUwzh0iu/4745
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", VILLAGE CINEMA
 http://ok2.se:8000/Vl5E7hX4Hc/NkOsIBuN1S/4724
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", NOVA CINEMA 1
+http://ok2.se:8000/Vl5E7hX4Hc/NkOsIBuN1S/77730
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Nova Sports 1
 http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/6447
 
