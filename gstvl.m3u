@@ -59,7 +59,7 @@ http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/6447
 http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/6448
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Nova Sports 3
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ad.mysisli.com/live/live45356/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Cosmote Sports 1
 http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4743
