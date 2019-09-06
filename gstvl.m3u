@@ -42,6 +42,9 @@ http://ok2.se:8000/Vl5E7hX4Hc/NkOsIBuN1S/4724
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", NOVA CINEMA 1
 http://ok2.se:8000/Vl5E7hX4Hc/NkOsIBuN1S/77730
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", NOVA CINEMA 2
+http://config.streamstv.me:8080/kkZnNBJVsf/PmFAwA9XKU/92161
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="Kids", SMILE TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/119.ts
 
