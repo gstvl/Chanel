@@ -105,13 +105,13 @@ http://ok2.se:8000/HJLv5ifcdv/iD33iBsUih/4741
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", OTE SPORT 4
 http://ok2.se:8000/cLwf6ELA0L/EINVR5Ge3K/4740
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", BT SPORTS 1HD
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/14391
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="World Sports", BT SPORTS 1HD
+http://mypanel.tv:8080/barber/barber123/6649
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", BT SPORTS 2HD
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17508
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pici.life/uk/BTSport2.uk.png" group-title="World Sports", BT SPORTS 2HD
+http://mypanel.tv:8080/barber/barber123/66532
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", BT SPORTS 3HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="World Sports", BT SPORTS 3HD
 http://mypanel.tv:8080/barber/barber123/6644
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", NBA HD
