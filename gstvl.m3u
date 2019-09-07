@@ -135,6 +135,8 @@ http://iptvpro.watch-vision.net:8789/ibrahim72/72ibrahim/337
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", (PT) SPORT TV4
 http://iptvpro.watch-vision.net:8789/ibrahim72/72ibrahim/338
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pici.life/UK/sky-sports-premier-league.png" group-title="World Sports", Sky Sports Premier League HD UK
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Channel", EBS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 
