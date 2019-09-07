@@ -24,6 +24,9 @@ https://vermantia.secure2.footprint.net/egress/bhandler/telmacortmp/vermantia/ma
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Greece", NAT GEO HD
 http://ok2.se:8000/AyVGZU7x9E/hsNUwzh0iu/4734
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Greece", OTE HISTORY
+http://ok2.se:8000/cLwf6ELA0L/EINVR5Ge3K/4744
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Ote Cinema 1
 http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/4748
 
