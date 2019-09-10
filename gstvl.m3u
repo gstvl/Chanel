@@ -67,7 +67,7 @@ http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/77702
 http://master.cystreams.com:25461/live/greek/macedonia/119.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="Kids", KIDS 1 (GR)
-http://ok2.se:8000/wPSh1TiGjV/fl6bJAc40c/77744
+http://wpso.com:1936/hls/kidshd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="Kids", KIDS 2 (GR)
 http://ok2.se:8000/wPSh1TiGjV/fl6bJAc40c/77735
