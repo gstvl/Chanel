@@ -63,6 +63,9 @@ http://config.streamstv.me:8080/kkZnNBJVsf/PmFAwA9XKU/92161
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", NOVA PREMIER 1(4K)
 http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/77702
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", NOVA PREMIER 10(HD)
+http://ok2.se:8000/F5PudNf5t3/IQ2nXJ0cLq/77693
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="Kids", SMILE TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/119.ts
 
