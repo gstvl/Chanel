@@ -27,29 +27,41 @@ http://ok2.se:8000/AyVGZU7x9E/hsNUwzh0iu/4734
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Greece", OTE HISTORY
 http://ok2.se:8000/cLwf6ELA0L/EINVR5Ge3K/4744
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Ote Cinema 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Cosmote Cinema 1
 http://ok2.se:8000/PmuEKvbHSJ/gQNivsdtTS/4748
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Ote Cinema 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Cosmote Cinema 2
 http://ok2.se:8000/PmuEKvbHSJ/gQNivsdtTS/4747
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Ote Cinema 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Cosmote Cinema 3
 http://ok2.se:8000/PmuEKvbHSJ/gQNivsdtTS/4746
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Ote Cinema 4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Cosmote Cinema 4
 http://ok2.se:8000/PmuEKvbHSJ/gQNivsdtTS/4745
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", OTE CINEMA 1
+http://ok2.se:8000/E05GDCQ3PE/Qcz6Z5NGYp/4748
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", OTE CINEMA 2
+http://ok2.se:8000/E05GDCQ3PE/Qcz6Z5NGYp/4747
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", OTE CINEMA 3
+http://ok2.se:8000/E05GDCQ3PE/Qcz6Z5NGYp/4746
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", OTE CINEMA 4
+http://ok2.se:8000/E05GDCQ3PE/Qcz6Z5NGYp/4745
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", VILLAGE CINEMA
 http://ok2.se:8000/Vl5E7hX4Hc/NkOsIBuN1S/4724
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", NOVA CINEMA 1
-http://ok2.se:8000/Vl5E7hX4Hc/NkOsIBuN1S/77730
+http://ok2.se:8000/E05GDCQ3PE/Qcz6Z5NGYp/77730
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", NOVA CINEMA 2
 http://config.streamstv.me:8080/kkZnNBJVsf/PmFAwA9XKU/92161
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", NOVA PREMIER 1(4K)
-http://ok2.se:8000/Vl5E7hX4Hc/NkOsIBuN1S/77702
+http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/77702
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="Kids", SMILE TV CY
 http://master.cystreams.com:25461/live/greek/macedonia/119.ts
