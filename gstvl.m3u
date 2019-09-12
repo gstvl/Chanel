@@ -162,6 +162,12 @@ http://ok2.se:8000/T0pcNddMIp/hZ2Ed2WwmA/168
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", Arena Sport 1HD
 http://ok2.se:8000/tj1QBjuT5a/mLWxtAVxD4/40958
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", Arena Sport 2HD
+http://ok2.se:8000/MLkY3Il7rE/bIEaa2z4Fx/40957
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", Arena Sport 3HD
+http://ok2.se:8000/MLkY3Il7rE/bIEaa2z4Fx/40956
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="World Sports", (PT) SPORT TV1
 http://iptv-pure.com:8000/C6DEX1Yn5z/dMg1L00IAW/1089
 
