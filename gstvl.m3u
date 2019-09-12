@@ -22,10 +22,10 @@ http://master.cystreams.com:25461/live/greek/macedonia/42.ts
 https://vermantia.secure2.footprint.net/egress/bhandler/telmacortmp/vermantia/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Greece", NAT GEO HD
-http://ok2.se:8000/AyVGZU7x9E/hsNUwzh0iu/4734
+http://ok2.se:8000/TPPp4xFhVM/yJswJI0r9f/4734
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Greece", OTE HISTORY
-http://ok2.se:8000/cLwf6ELA0L/EINVR5Ge3K/4744
+http://ok2.se:8000/F5PudNf5t3/IQ2nXJ0cLq/4744
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cinema gr", Cosmote Cinema 1
 http://ok2.se:8000/PmuEKvbHSJ/gQNivsdtTS/4748
