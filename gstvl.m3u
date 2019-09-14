@@ -97,10 +97,13 @@ http://magnum-ott.net:80/912067776331/BZmlwbYlRZDIpu2/54960
 http://magnum-ott.net:80/912067776331/BZmlwbYlRZDIpu2/54959
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/GREECE/NOVASPORT.png" group-title="Sports", Nova Sports 1* (MATCH ONLY)
-http://config.streamstv.me:8080/ig1KSfi5HN/bV96UBmaOQ/73428
+http://config.streamstv.me:8080/et5H755UTT/fpFQpD2Gth/73428
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/GREECE/NOVASPORT.png" group-title="Sports", Nova Sports 2* (MATCH ONLY)
-http://config.streamstv.me:8080/ig1KSfi5HN/bV96UBmaOQ/73427
+http://energyiptv.streamtv.to:8080/IYvDLwTuct/mP5o9K5New/23147
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/GREECE/NOVASPORT.png" group-title="Sports", Nova Sports 4* (MATCH ONLY)
+http://config.streamstv.me:8080/et5H755UTT/fpFQpD2Gth/80720
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Cosmote Sports 1
 http://ok2.se:8000/bANfeuXuP0/eyFr8sMjgI/4743
