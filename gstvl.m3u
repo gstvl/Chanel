@@ -108,6 +108,9 @@ http://config.streamstv.me:8080/et5H755UTT/fpFQpD2Gth/80720
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/GREECE/NOVASPORT.png" group-title="Sports", Nova Sports 1(B)
 http://ad.mysisli.com/live/greece1/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/GREECE/NOVASPORT.png" group-title="Sports", Nova Sports 2(B)
+http://ad.mysisli.com/live/live45356/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Cosmote Sports 1
 http://ok2.se:8000/YO7h1SxPSt/pkNPedZsLI/4743
 
